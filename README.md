@@ -3,6 +3,8 @@
 
 # Databricks SQL Labs 
 
+aaaaaaa
+
 Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de Analytics (SQL, Query, Dask, DataViz, SQL end-point).
 
 ## Ementa do Curso
